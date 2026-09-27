@@ -1,0 +1,9 @@
+# Feeds to include in the digest. `name` is the section heading; `url` is
+# the RSS or Atom feed URL.
+feeds:
+  - name: Python Insider
+    url: https://pythoninsider.blogspot.com/feeds/posts/default
+  - name: Android Developers Blog
+    url: https://android-developers.googleblog.com/atom.xml
+  - name: Hacker News (front page)
+    url: https://hnrss.org/frontpage
